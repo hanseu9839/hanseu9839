@@ -1,6 +1,6 @@
 # Hello 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hanseu9839@gmail.com&theme=dark&locale=ko&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Stack](https://streak-stats.demolab.com?user=hanseu9839&theme=dark&locale=ko&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
 
 <p>
   <em>
