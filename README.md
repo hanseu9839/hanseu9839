@@ -10,5 +10,4 @@ Here are some ideas to get you started:
    </em>
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanseu9839)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=hsk9839)](https://solved.ac/hsk9839)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanseu9839)](https://github.com/anuraghazra/github-readme-stats)
