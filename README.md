@@ -1,7 +1,7 @@
 # Hello 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&locale=ko&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
-Here are some ideas to get you started:
+[![GitHub Streak](https://streak-stats.demolab.com?user=hanseu9839@gmail.com&theme=dark&locale=ko&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
+
 <p>
   <em>
 - 🌱 I’m learning <b>Spring boot</b> <br>
