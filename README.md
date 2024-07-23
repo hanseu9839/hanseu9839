@@ -1,6 +1,6 @@
 # Hello 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&locale=ko&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
 Here are some ideas to get you started:
 <p>
   <em>
