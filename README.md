@@ -3,7 +3,7 @@
   <em>
 - 🌱 I’m learning <b>Spring boot</b> <br>
 - 👯 I’m looking to collaborate on Web<br>
-- 📫 How to reach me: hans9839@naver.com  or hanseu9839@gmail.com 
+- 📫 How to reach me: hanseu9839@gmail.com 
    </em>
 </p>
 
