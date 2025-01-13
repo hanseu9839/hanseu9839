@@ -17,8 +17,6 @@
  </div>
 </div>
 
-[![GitHub Stack](https://streak-stats.demolab.com?user=hanseu9839&theme=dark&locale=ko&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanseu9839)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
