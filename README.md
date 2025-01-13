@@ -1,12 +1,21 @@
-![header](https://capsule-render.vercel.app/api?text=한승균입니다&color=auto&type=waving&fontColor=d6ace6)
-<p>
-  <em>
-- 🌱 Test Code를 통하여 좋은 코드 품질을 통한 유지보수하기 쉬운 코드를 만드는 것을 좋아합니다.  
-- 👯 DDD, MSA에 관심이 있으며 최근 DDD(DDD Domain driven design)을 학습하고 있습니다. 
-- 📫 개인 블로그를 운영하며 회고 및 학습하는 것을 좋아합니다. ![Blog](https://seounggyun.tistory.com)
-- 북 스터디 Effective Java를 진행하고 있습니다. 
-   </em>
-</p>
+<h1>안녕하세요, 저는 한승균 입니다 😀 </h1>
+<div>
+ <h3>개발 가치관</h3>
+ <div>
+  <li>
+   <b>유지 보수 하기 좋은 코드를 작성하려고 노력합니다.</b> 
+   <p>구현 후, 동작하는 것에 만족하는 것이 아닌 팀이 이해하기 쉬운 코드를 작성하기 위해 노력합니다.</p>
+  </li>
+  <li>
+   <b>현재 도메인 주도 개발 및 MSA, 데이터베이스에 관심을 가지고 학습하고 있습니다.</b> 
+   <p>서비스 레이어 단에, 코드를 작성하는 것이 아닌, 도메인 안에 코드를 작성하기 위해 노력합니다.</p>
+  </li>
+  <li>
+   <b>객체지향적으로 코드를 작성하려고 노력합니다.</b> 
+   <p>객체지향적으로 코드를 작성하기 위해 Java 관련 서적 읽으며 학습하고 있습니다.또한 소나 큐브 사용하여 코드 품질을 관리합니다.</p>
+  </li>
+ </div>
+</div>
 
 [![GitHub Stack](https://streak-stats.demolab.com?user=hanseu9839&theme=dark&locale=ko&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
 
