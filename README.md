@@ -16,7 +16,4 @@
   </li>
  </div>
 </div>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hanseu9839)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](./profile-3d-contrib/profile-gitblock.svg)
